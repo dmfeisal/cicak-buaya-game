@@ -27,5 +27,5 @@ grunt connect
 Open your browser at `http://localhost:8001/`
 
 ## Info
-- Daeng Muhammad Feisal (c) 2015
+- Daeng M F (c) 2015
 - For Undergraduate Project - Ilmu Komputer UPI
