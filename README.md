@@ -3,9 +3,9 @@ Cicak Buaya Game
 
 A MelonJS made "Flappy Bird" clone.
 
-![Screenshot](https://github.com/daengdoang/cicak-buaya-game/blob/gh-pages/data/img/cicak-buaya-game-kpk-inspired.png)
+![Screenshot](https://github.com/dmfeisal/cicak-buaya-game/blob/gh-pages/data/img/cicak-buaya-game-kpk-inspired.png)
 
-For Playing, visit: http://daengdoang.github.io/cicak-buaya-game/
+For Playing, visit: http://dmfeisal.github.io/cicak-buaya-game/
 
 Forked from Clumsy Bird at http://ellisonleao.github.io/clumsy-bird/
 
